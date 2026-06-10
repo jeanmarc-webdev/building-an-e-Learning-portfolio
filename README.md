@@ -39,8 +39,8 @@ Note: When you use a cmd make sure you have the same path then your editor.
 ### Serving media files
 
 # Update settings.py
-- MEDIA_URL = 'media/'
-- MEDIA_ROOT = BASE_DIR / 'media'
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
 ### Building the course models
 
